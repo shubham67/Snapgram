@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user_list.xml",
+        "source": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\src\\main\\res\\menu\\menu_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\myproviderview.xml",
+        "source": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\src\\main\\res\\menu\\myproviderview.xml"
+    },
+    {
+        "merged": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\myprovider.xml",
+        "source": "C:\\Users\\moni\\Desktop\\UI Kits\\8.9\\Snapgram\\ParseStarterProject\\src\\main\\res\\menu\\myprovider.xml"
+    }
+]

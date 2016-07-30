@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/provider"
+    app:showAsAction="always"
+    android:title="Share"
+    app:actionProviderClass="android.support.v7.widget.ShareActionProvider" />
+    <item android:id="@+id/myprovider"
+        app:showAsAction="ifRoom|withText"
+        android:title="Launch"
+        app:actionProviderClass="com.example.tech.myfirst.MyProvider"
+        />
+   </menu>
